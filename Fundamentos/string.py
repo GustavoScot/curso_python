@@ -26,8 +26,10 @@ print(tamanho2)
 
 texto4 = 'ola'
 texto5 = ' TUDO certo?'
+texto6 = 'muito bom'
 modificado = texto4.upper()
 modificado2 = texto5.lower()
-
+modificado3 = texto5.title()
 print(modificado)
 print(modificado2)
+print(modificado3)

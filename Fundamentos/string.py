@@ -23,3 +23,11 @@ tamanho = len(texto) # quantos caracteres tem no texto
 tamanho2 = len(texto1)
 print(tamanho)
 print(tamanho2)
+
+texto4 = 'ola'
+texto5 = ' tudo certo?'
+modificado = texto4.upper()
+modificado2 = texto5.lower()
+
+print(texto4)
+print(texto5)

@@ -18,3 +18,18 @@ print(elevado)
 
 resto = 10 % 4 # resto da divisao
 print(resto)
+
+x = 5
+print(x)
+
+x += 5 
+print(x)
+
+x -= 2 
+print(x)
+
+x *= 5
+print(x)
+
+x /= 2
+print(x)

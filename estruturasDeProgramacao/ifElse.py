@@ -51,3 +51,15 @@ numero4 = 2
 resultado = "Um" if numero4 == 1 else "Dois" if numero4 == 2 else "tres"
 print(resultado) 
 print("----------")    
+
+x = 0
+y = 20
+
+if x > 0 and y > 0:
+    print('sao positivos')
+
+if x > 0 or y > 0 :
+    print('pelo menos um deles é positivo')
+
+if not x > 0:
+    print('x nao é positivo')

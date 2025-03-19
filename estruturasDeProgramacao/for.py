@@ -48,6 +48,8 @@ for x in range(1,5): # tabuada do 1 ate o 5
         multiplicacao = x * y
         print('%d x %d = %d' % (x, y, multiplicacao))
 
+print('----------')
+
 arr = ['gustavo', 'kaion', 'pedro']
 for i in arr:
     print(i)
